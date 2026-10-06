@@ -97,7 +97,10 @@ return 0;
 ```
 
 **Скріншот роботи програми:**
-> *(Перетягніть сюди скріншот виконання Завдання 1 у вікні редагування GitHub)*
+> *<img width="2424" height="991" alt="image" src="https://github.com/user-attachments/assets/86e34267-bcbb-437b-a81a-1661711ba167" />
+
+> <img width="1255" height="425" alt="image" src="https://github.com/user-attachments/assets/a7b35723-8b2f-4db6-b308-5227d0858567" />
+*
 
 ---
 
