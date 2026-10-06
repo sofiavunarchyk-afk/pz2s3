@@ -97,7 +97,8 @@ return 0;
 ```
 
 **Скріншот роботи програми:**
-> *<img width="2424" height="991" alt="image" src="https://github.com/user-attachments/assets/86e34267-bcbb-437b-a81a-1661711ba167" />
+> *<img width="1186" height="302" alt="image" src="https://github.com/user-attachments/assets/657d516a-d7c6-4425-a206-4bbe01ed6a58" />
+
 
 > <img width="1255" height="425" alt="image" src="https://github.com/user-attachments/assets/a7b35723-8b2f-4db6-b308-5227d0858567" />
 *
@@ -152,7 +153,10 @@ return 0;
 ```
 
 **Скріншот роботи програми:**
-> *(Перетягніть сюди скріншот виконання Завдання 2 у вікні редагування GitHub)*
+> *<img width="2446" height="931" alt="image" src="https://github.com/user-attachments/assets/838decfe-f0f0-406a-a389-865107f0d7d9" />
+<img width="1203" height="421" alt="image" src="https://github.com/user-attachments/assets/48b1cd42-e166-4364-988c-6d7baac20557" />
+<img width="1193" height="366" alt="image" src="https://github.com/user-attachments/assets/d9942bcf-848b-415b-9ad6-0125b19bf44d" />
+*
 
 ---
 
@@ -208,7 +212,10 @@ while (it != devices.end())
 ```
 
 **Скріншот роботи програми:**
-> *(Перетягніть сюди скріншот виконання Завдання 3 у вікні редагування GitHub)*
+> *<img width="2477" height="1189" alt="image" src="https://github.com/user-attachments/assets/e724559b-a153-4b91-8f26-b14f33d6ef0f" />
+<img width="1225" height="549" alt="image" src="https://github.com/user-attachments/assets/87e19f47-3625-4ee1-97f5-6a8b9205d8f1" />
+<img width="810" height="332" alt="image" src="https://github.com/user-attachments/assets/40a5efd8-3ce1-4667-baba-4a15b7a9076a" />
+*
 
 ---
 
@@ -251,7 +258,10 @@ cout << "Загальна кількість символів: " << sum;
 ```
 
 **Скріншот роботи програми:**
-> *(Перетягніть сюди скріншот виконання Завдання 4 у вікні редагування GitHub)*
+> *<img width="2477" height="1189" alt="image" src="https://github.com/user-attachments/assets/f8f6e0c6-3409-4b94-a440-827f8448bafa" />
+<img width="1239" height="426" alt="image" src="https://github.com/user-attachments/assets/9f2bf341-39a6-4201-b7ce-509db842bf5f" />
+<img width="973" height="342" alt="image" src="https://github.com/user-attachments/assets/f02f0e84-8efc-4b3c-945f-2b8e199eccf7" />
+*
 
 ---
 
@@ -301,7 +311,11 @@ int main()
 ```
 
 **Скріншот роботи програми:**
-> *(Перетягніть сюди скріншот виконання Завдання 5 у вікні редагування GitHub)*
+> *<img width="2539" height="1119" alt="image" src="https://github.com/user-attachments/assets/5781a937-9aaa-400e-821f-cd2520abb61c" />
+<img width="1169" height="383" alt="image" src="https://github.com/user-attachments/assets/994db3a9-2dd0-409d-90c1-1d1bfd969aa4" />
+<img width="1187" height="446" alt="image" src="https://github.com/user-attachments/assets/f5c43453-3bc1-41f2-9dc7-bd69a8be9691" />
+
+*
 
 ---
 
